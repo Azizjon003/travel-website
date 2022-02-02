@@ -1,0 +1,176 @@
+@media (max-width: 93em) {
+  html {
+    font-size: 56.25%;
+  }
+  .contener {
+    margin: 0 auto;
+  }
+  .nav {
+    column-gap: 10rem;
+  }
+}
+@media (max-width: 62.5em) {
+  html {
+    font-size: 50%;
+  }
+  .header {
+    padding: 1.5rem 15rem 1.5rem 0;
+    font-size: 1.4rem;
+  }
+  .navheader {
+    font-size: 1.2rem;
+  }
+  .hbanner {
+    font-size: 35px;
+  }
+  .h3 {
+    font-size: 1.8rem;
+  }
+  .button,
+  .button2 {
+    font-size: 1.4rem;
+  }
+  .images {
+    width: 50%;
+  }
+
+  .p {
+    font-size: 1.4rem;
+    line-height: 1.6;
+  }
+
+  .h1,
+  .sarlavha {
+    font-size: 4rem;
+  }
+  .h2 {
+    font-size: 1.8;
+  }
+}
+@media (max-width: 50.625em) {
+  .banner-section2 h1 {
+    font-size: 4rem;
+    font-weight: 400;
+  }
+  .texts h1 {
+    font-size: 4rem;
+  }
+  .div2003 {
+    width: 5rem;
+  }
+  .p {
+    font-size: 1.2rem;
+  }
+  .button {
+    font-size: 1.2rem;
+  }
+  .brand-section {
+    flex-direction: column;
+  }
+  .brand-card {
+    gap: 0;
+    align-items: center;
+  }
+  .services-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .servises-card1 {
+    height: 200px;
+  }
+  .fa-phone {
+    font-size: 1rem;
+  }
+}
+@media (max-width: 40.625em) {
+  html {
+    font-size: 0.43rem;
+  }
+  .banner-section {
+    flex-direction: column;
+  }
+  .texts {
+    width: 80vw;
+    text-align: center;
+    row-gap: 3rem;
+  }
+  .banner-section2 {
+    flex-direction: column;
+    text-align: center;
+  }
+  .button3 {
+    margin: 0 auto;
+  }
+  .images {
+    margin: 0 auto;
+  }
+  .texts h2 {
+    font-size: 2.8rem;
+  }
+  .texts h1 {
+    font-size: 3.2rem;
+  }
+  .h3 {
+    font-size: 1.6rem;
+  }
+  .navheader {
+    font-size: 1rem;
+  }
+  header {
+    padding: 1.5rem 15rem 1.5rem 0;
+    font-size: 1rem;
+  }
+  .hbanner {
+    font-size: 3.2rem;
+  }
+  .button,
+  .button2 {
+    font-size: 1rem;
+  }
+  .brand {
+    grid-template-columns: 1fr 1fr;
+  }
+  .banner-section2 h1 {
+    font-size: 3rem;
+    font-weight: 400;
+  }
+  .div2 span {
+    font-size: 4.8rem;
+    color: #834fed;
+  }
+  .h1 {
+    font-size: 2.4rem;
+  }
+  .div1 i {
+    font-size: 4.8rem;
+    color: #212529;
+  }
+  .portfolio-section h1,
+  .testmonial-section h1 {
+    font-size: 3rem;
+    font-weight: 500;
+  }
+  .port1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .portfolio3 {
+    display: none;
+  }
+  .testmonial-card {
+    flex-direction: column;
+  }
+  .footer-section {
+  }
+  .footer-section form {
+    flex-direction: column;
+    row-gap: 3rem;
+    align-items: center;
+  }
+  .footer-section form input {
+    width: 80%;
+  }
+  .footer-section form button {
+    width: 40%;
+  }
+} ;
